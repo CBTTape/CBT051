@@ -1,0 +1,7 @@
+2023-04-02 21:13:49.881248 - Initialized conversion of CBT051
+2023-04-02 21:13:49.921011 - Received CBT.V504.FILE051.PDS from FILE051.XMI 
+2023-04-02 21:13:49.923696 - Found $$$$DOC.txt (text/plain) in CBT.V504.FILE051.PDS, moved to PDS/$$$$DOC
+2023-04-02 21:13:49.924869 - Found @FILE051.txt (text/plain) in CBT.V504.FILE051.PDS, moved to PDS/@FILE051
+2023-04-02 21:13:49.926078 - Found DIGNUS.txt (text/plain) in CBT.V504.FILE051.PDS, moved to PDS/DIGNUS
+2023-04-02 21:13:49.927310 - Found FASTPATH.txt (text/plain) in CBT.V504.FILE051.PDS, moved to PDS/FASTPATH
+2023-04-02 21:13:49.928300 - Found MACKINNE.txt (text/plain) in CBT.V504.FILE051.PDS, moved to PDS/MACKINNE
